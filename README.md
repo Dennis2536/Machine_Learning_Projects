@@ -3,4 +3,8 @@
 !['ML evolution'](evolution.jpg)
 
 
-These are my personal projects I am working on
+## Healthcare Sector Projects
+1. [Cancer Prediction using RNAseq Data]
+2. [Malaria Prediction](https://github.com/Dennis2536/Machine_Learning_Projects/tree/main/Malaria_Prediction)
+
+
