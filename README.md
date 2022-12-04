@@ -4,7 +4,7 @@
 
 
 ## Healthcare Sector Projects
-1. [Cancer Prediction using RNAseq Data]
+1. [Cancer Prediction using RNAseq Data](https://github.com/Dennis2536/Machine_Learning_Projects/blob/main/Cancer_Prediction_Capstone_Project.ipynb)
 2. [Malaria Prediction](https://github.com/Dennis2536/Machine_Learning_Projects/tree/main/Malaria_Prediction)
 
 
